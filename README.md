@@ -1,6 +1,6 @@
 # 👩🏻‍💻 João Manoel
 
-**`Desenvolvedor FullStack`**
+**`Estudante de Analise e Desenvolvimento de Sistemas`**
 
 Me chamo João Manoel Gomes Barbosa, tenho 21 anos e sou natural do Rio Grande do Norte. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Potiguar. Sou apaixonado por tecnologia. 
   
